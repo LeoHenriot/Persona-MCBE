@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "description": "cactus_x_m5wc_skinpack",
+    "name": "cactus_x_m5wc_skinpack",
+    "uuid": "ecab1d16-e4bd-4369-8e51-4b39a14a62dc"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "98668581-6950-45f5-82bf-f295899f4b13"
+    }
+  ],
+  "format_version": 1
+}
