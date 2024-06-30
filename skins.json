@@ -410,14 +410,21 @@
       "texture": "Skin74.png",
       "cape": "Skin74cape.png", 
       "type": "free"
-    }, 
+    },
+    {
+      "localization_name": "m5wc",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skin75.png",
+      "cape": "Skin74cape.png", 
+      "type": "free"
+    },
     {
       "localization_name": "Skin75",
       "geometry": "geometry.humanoid.custom",
       "texture": "Skin75.png",
       "cape": "Skin75cape.png", 
       "type": "free"
-    } , 
+    }, 
     {
       "localization_name": "Skin76",
       "geometry": "geometry.humanoid.customSlim",
