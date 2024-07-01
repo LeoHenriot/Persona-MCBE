@@ -473,19 +473,19 @@
       "texture": "Skin84.png",
       "cape": "Skin84cape.png", 
       "type": "free"
+    },
+   {
+      "localization_name": "Skin87",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Skin87.png",
+      "cape": "Skin87cape.png", 
+      "type": "free"
     }, 
     {
       "localization_name": "Skin86",
       "geometry": "geometry.humanoid.custom",
       "texture": "Skin86.png",
       "cape": "Skin86cape.png", 
-      "type": "free"
-    }, 
-    {
-      "localization_name": "Skin87",
-      "geometry": "geometry.humanoid.customSlim",
-      "texture": "Skin87.png",
-      "cape": "Skin87cape.png", 
       "type": "free"
     }, 
     {
@@ -500,6 +500,20 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "France.png",
       "cape": "u.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "France2024",
+      "geometry": "geometry.NorseMythology.Mani",
+      "texture": "France1.png",
+      "cape": "Cape1.png", 
+      "type": "free"
+    },
+    {
+      "localization_name": "HiveFranceStyleHive",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HiveFranceStyleHive.png",
+      "cape": "HiveFranceStyleHive_cape.png",
       "type": "free"
     },
     {
@@ -677,13 +691,6 @@
       "type": "free"
     },
     {
-      "localization_name": "France2024",
-      "geometry": "geometry.NorseMythology.Mani",
-      "texture": "France1.png",
-      "cape": "Cape1.png", 
-      "type": "free"
-    },
-    {
       "localization_name": "m5wcGarfield",
       "geometry": "geometry.humanoid.custom",
       "texture": "GarfieldCat.png",
@@ -813,13 +820,6 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "m5wc_sorcier.png",
       "cape": "m5wc_sorcier_cape.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "HiveFranceStyleHive",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "HiveFranceStyleHive.png",
-      "cape": "HiveFranceStyleHive_cape.png",
       "type": "free"
     },
     {
