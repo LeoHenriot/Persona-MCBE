@@ -690,6 +690,13 @@
       "cape": "EnderCape.png", 
       "type": "free"
     },
+   {
+      "localization_name": "EnderFox",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "EnderFox.png",
+      "cape": "EnderCape.png", 
+      "type": "free"
+    },
     {
       "localization_name": "m5wcGarfield",
       "geometry": "geometry.humanoid.custom",
