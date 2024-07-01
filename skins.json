@@ -509,6 +509,13 @@
       "cape": "Cape1.png", 
       "type": "free"
     },
+   {
+      "localization_name": "datqsfr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "datqsfr.png",
+      "cape": "datqsfr_cape.png", 
+      "type": "free"
+    },
     {
       "localization_name": "HiveFranceStyleHive",
       "geometry": "geometry.humanoid.custom",
@@ -556,13 +563,6 @@
       "geometry": "geometry.MiniGameMasters.WolfTumbler",
       "texture": "egril.png",
       "cape": "egril_cape.png", 
-      "type": "free"
-    },
-    {
-      "localization_name": "datqsfr",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "datqsfr.png",
-      "cape": "datqsfr_cape.png", 
       "type": "free"
     },
     {
