@@ -768,9 +768,23 @@
             "type": "free"
         },
         {
+            "localization_name": "miaoupirategold",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaoupirategold.png",
+            "cape": "goldcape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renard_diamond_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_diamond_treasure_hunter.png",
+            "cape": "diamondcape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "miaoupiratediamond",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaoupiratediamond.png",
             "cape": "diamondcape.png",
             "type": "free"
         },
