@@ -614,6 +614,13 @@
             "type": "free"
         },
         {
+            "localization_name": "Pikalux",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Pikalux.png",
+            "cape": "Pikaluxcape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "Lux1904",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "Lux1904.png",
