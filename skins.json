@@ -768,6 +768,34 @@
             "type": "free"
         },
         {
+            "localization_name": "ChatAngeBlanc",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaouangeblanc.png",
+            "cape": "capeangeblanc.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardAngeBlanc",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "renardangeblanc.png",
+            "cape": "capeangeblanc.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "ChatAngeNoir",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaouangenoir.png",
+            "cape": "capeangenoir.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardAngeNoir",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "renardangenoir.png",
+            "cape": "capeangenoir.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renard_gold_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_gold_treasure_hunter.png",
