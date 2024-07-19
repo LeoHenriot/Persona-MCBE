@@ -552,6 +552,13 @@
             "type": "free"
         },
         {
+            "localization_name": "HiveFranceFox",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Hive_France_Fox.png",
+            "cape": "Hive_France_Fox_Cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusTheFox",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "CactusTheFox.png",
