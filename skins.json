@@ -803,6 +803,13 @@
             "type": "free"
         },
         {
+            "localization_name": "Roi_m5",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "king_m5.png",
+            "cape": "king_m5_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renard_gold_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_gold_treasure_hunter.png",
