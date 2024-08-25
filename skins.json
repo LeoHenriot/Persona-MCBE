@@ -719,6 +719,20 @@
             "type": "free"
         },
         {
+            "localization_name": "FoxSG",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "renard_sg.png",
+            "cape": "renard_sg_cape.png", 
+            "type": "free"
+        },
+        {
+            "localization_name": "CatSG",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "chat_sg.png",
+            "cape": "chat_sg_cape.png", 
+            "type": "free"
+        },
+        {
             "localization_name": "renardparkour",
             "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
             "texture": "renardparkour.png",
