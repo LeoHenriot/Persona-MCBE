@@ -937,7 +937,7 @@
         },
         {
             "localization_name": "ThunderFox",
-            "geometry": "geometry.humanoid.customSlim",
+            "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
             "texture": "ThunderFox.png",
             "cape": "Fox_cape.png",
             "type": "free"
