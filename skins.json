@@ -929,6 +929,13 @@
             "type": "free"
         },
         {
+            "localization_name": "ThunderFox",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "ThunderFox.png",
+            "cape": "Fox_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "Chat Roux",
             "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
             "texture": "chatroux.png",
