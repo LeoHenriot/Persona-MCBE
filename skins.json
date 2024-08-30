@@ -824,6 +824,13 @@
             "type": "free"
         },
         {
+            "localization_name": "Roi_renard",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "king_renard.png",
+            "cape": "MCC_15years.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renard_gold_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_gold_treasure_hunter.png",
