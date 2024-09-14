@@ -740,6 +740,27 @@
             "type": "free"
         },
         {
+            "localization_name": "renardparkourviolet",
+            "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
+            "texture": "renardparkourviolet.png",
+            "cape": "parkourcapeviolet.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "miaouparkourviolet",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaouparkourviolet.png",
+            "cape": "parkourcapeviolet.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "miaouparkourjaune",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "miaouparkourjaune.png",
+            "cape": "parkourcapejaune.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusMeow",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "cactusyellowhoodie.png",
