@@ -684,6 +684,20 @@
             "type": "free"
         },
         {
+            "localization_name": "CactusFall",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "fall_fox.png",
+            "cape": "fall_cape_red.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcFall",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "fall_cat.png",
+            "cape": "fall_cape_orange.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_lunar",
             "geometry": "geometry.ChineseMythology.DragonDancerSuitChineseDragonHead",
             "texture": "LunarCat.png",
