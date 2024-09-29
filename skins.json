@@ -1010,6 +1010,12 @@
             "type": "free"
         },
         {
+            "localization_name": "calico",
+            "geometry": "geometry.hive.costume.calico",
+            "texture": "calico.png",
+            "type": "free"
+        },
+        {
             "localization_name": "MiniRenard",
             "geometry": "geometry.StarWarsClassic.WicketWarrick",
             "texture": "MiniRenard.png",
