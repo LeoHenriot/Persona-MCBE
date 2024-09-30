@@ -1016,6 +1016,12 @@
             "type": "free"
         },
         {
+            "localization_name": "night_star",
+            "geometry": "geometry.hive.costume.nightstar",
+            "texture": "night_star.png",
+            "type": "free"
+        },
+        {
             "localization_name": "MiniRenard",
             "geometry": "geometry.StarWarsClassic.WicketWarrick",
             "texture": "MiniRenard.png",
