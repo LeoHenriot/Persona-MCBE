@@ -1019,6 +1019,7 @@
             "localization_name": "night_star",
             "geometry": "geometry.hive.costume.nightstar",
             "texture": "night_star.png",
+            "cape": "Skin24cape.png",
             "type": "free"
         },
         {
