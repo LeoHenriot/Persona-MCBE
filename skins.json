@@ -1016,6 +1016,12 @@
             "type": "free"
         },
         {
+            "localization_name": "night_star_red",
+            "geometry": "geometry.hive.costume.nightstar",
+            "texture": "night_star_red.png",
+            "type": "free"
+        },
+        {
             "localization_name": "night_star",
             "geometry": "geometry.hive.costume.nightstar",
             "texture": "night_star.png",
@@ -1023,9 +1029,10 @@
             "type": "free"
         },
         {
-            "localization_name": "night_star_red",
-            "geometry": "geometry.hive.costume.nightstar",
-            "texture": "night_star_red.png",
+            "localization_name": "night_star_chat",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "night_star_chat.png",
+            "cape": "night_star_cape.png",
             "type": "free"
         },
         {
