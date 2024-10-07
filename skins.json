@@ -810,6 +810,13 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wc_bleu",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "blue_m5wc.png",
+            "cape": "blue_m5wc_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_sorcier",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_sorcier.png",
