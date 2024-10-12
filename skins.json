@@ -670,6 +670,13 @@
             "type": "free"
         },
         {
+            "localization_name": "GiCactus",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "gifox.png",
+            "cape": "gicape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusHalloween",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "SpookyFox.png",
