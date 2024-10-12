@@ -691,6 +691,13 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wcHalloween24",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "chatzombie.png",
+            "cape": "zombiecape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusFall",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "fall_fox.png",
