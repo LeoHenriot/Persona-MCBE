@@ -678,7 +678,7 @@
         },
         {
             "localization_name": "Gim5wc",
-            "geometry": "geometry.humanoid.customSlim",
+            "geometry": "geometry.humanoid.custom",
             "texture": "gicat.png",
             "cape": "gicape.png",
             "type": "free"
