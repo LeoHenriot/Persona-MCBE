@@ -1,3 +1,4 @@
+
 {
     "skins": [
         {
@@ -702,9 +703,9 @@
             "geometry": "geometry.humanoid.custom",
             "texture": "chatzombie.png",
             "cape": "zombiecape.png",
-"animations": {
-        "move.arms": "animation.player.move.arms.zombie"
-      },
+            "animations": {
+            "move.arms": "animation.player.move.arms.zombie"
+        },
             "type": "free"
         },
         {
