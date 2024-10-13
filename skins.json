@@ -700,7 +700,7 @@
         },
         {
             "localization_name": "m5wcHalloween24",
-            "geometry": "geometry.humanoid.customSlim",
+            "geometry": "geometry.MiniGameMasters.WolfGlider",
             "texture": "chatzombie.png",
             "cape": "zombiecape.png",
             "animations": {
