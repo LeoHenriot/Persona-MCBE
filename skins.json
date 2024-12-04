@@ -808,7 +808,7 @@
         },
         {
             "localization_name": "elitefox",
-            "geometry": "geometry.humanoid.custom",
+            "geometry": "geometry.humanoid.customSlim",
             "texture": "elitefox.png",
             "cape": "elitecape.png",
             "type": "free"
