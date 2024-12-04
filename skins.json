@@ -660,7 +660,7 @@
             "localization_name": "HolidayCactus",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "holidayrenard.png",
-            "cape": "holidaycape1.png",
+            "cape": "holidaycape2.png",
             "type": "free"
         },
         {
