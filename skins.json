@@ -807,6 +807,13 @@
             "type": "free"
         },
         {
+            "localization_name": "elitefox",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "elitefox.png",
+            "cape": "elitecape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusMeow",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "cactusyellowhoodie.png",
