@@ -660,7 +660,14 @@
             "localization_name": "HolidayCactus",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "holidayrenard.png",
-            "cape": "holidaycape2.png",
+            "cape": "holidaycape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "HolidayCactus23",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "holidayrenard.png",
+            "cape": "holidaycape1.png",
             "type": "free"
         },
         {
@@ -779,6 +786,13 @@
             "type": "free"
         },
         {
+            "localization_name": "elitefox",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "elitefox.png",
+            "cape": "elitecape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "FoxSG",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_sg.png",
@@ -818,13 +832,6 @@
             "geometry": "geometry.humanoid.custom",
             "texture": "miaouparkourjaune.png",
             "cape": "parkourcapejaune.png",
-            "type": "free"
-        },
-        {
-            "localization_name": "elitefox",
-            "geometry": "geometry.humanoid.customSlim",
-            "texture": "elitefox.png",
-            "cape": "elitecape.png",
             "type": "free"
         },
         {
