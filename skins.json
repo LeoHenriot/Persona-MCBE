@@ -723,6 +723,20 @@
             "type": "free"
         },
         {
+            "localization_name": "CactusWinter",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "winterfox.png",
+            "cape": "wintercape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcWinter",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "wintercat.png",
+            "cape": "wintercape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_lunar",
             "geometry": "geometry.ChineseMythology.DragonDancerSuitChineseDragonHead",
             "texture": "LunarCat.png",
