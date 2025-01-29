@@ -1122,6 +1122,13 @@
             "type": "free"
         },
         {
+            "localization_name": "zc4b",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "zc4b.png",
+            "cape": "zc4b_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "HackerEli123",
             "geometry": "geometry.BeachPartySkinPack.ClassyBeachwear",
             "texture": "HackerEli123.png",
