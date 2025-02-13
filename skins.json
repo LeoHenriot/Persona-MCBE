@@ -758,6 +758,20 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wc_lunar_25",
+            "geometry": "geometry.ChineseMythology.SnakeCelestialGoddessNuwa",
+            "texture": "ChatLunar25.png",
+            "cape": "LunarCape25.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "cactus_lunar_25",
+            "geometry": "geometry.ChineseMythology.SnakeCelestialGoddessNuwa",
+            "texture": "RenardLunar25.png",
+            "cape": "LunarCape25.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_afk",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_afk.png",
