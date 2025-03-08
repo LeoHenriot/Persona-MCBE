@@ -1164,6 +1164,13 @@
             "type": "free"
         },
         {
+            "localization_name": "HackerEli123Chinese",
+            "geometry": "geometry.BeachPartySkinPack.ClassyBeachwear",
+            "texture": "HackerEli123Chinese.png",
+            "cape": "HackerEli123Chinesecape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "Sans76pseudo",
             "geometry": "geometry.humanoid.custom",
             "texture": "Sans76pseudo.png",
