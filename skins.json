@@ -949,14 +949,14 @@
         {
             "localization_name": "ChatJetpack",
             "geometry": "geometry.humanoid.custom",
-            "texture": "Chat Jetpack.png",
+            "texture": "ChatJetpack.png",
             "cape": "Jetpack Cape.png",
             "type": "free"
         },
         {
             "localization_name": "RenardJetpack",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "Renard Jetpack.png",
+            "texture": "RenardJetpack.png",
             "cape": "Jetpack Cape.png",
             "type": "free"
         },
