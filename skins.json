@@ -961,6 +961,20 @@
             "type": "free"
         },
         {
+            "localization_name": "ChatJetpackCrimson",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "ChatJetpackCrimson.png",
+            "cape": "JetpackCapeCrimson.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardJetpackCrimson",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "RenardJetpackCrimson.png",
+            "cape": "JetpackCapeCrimson.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renard_gold_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renard_gold_treasure_hunter.png",
