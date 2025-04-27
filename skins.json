@@ -772,6 +772,20 @@
             "type": "free"
         },
         {
+            "localization_name": "CactusSpring",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "spring_fox.png",
+            "cape": "spring_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcSpring",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "spring_cat.png",
+            "cape": "spring_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_afk",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_afk.png",
