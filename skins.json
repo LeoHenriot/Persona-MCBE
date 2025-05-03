@@ -1126,6 +1126,34 @@
             "type": "free"
         },
         {
+            "localization_name": "black_cat",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "black_cat_classic.png",
+            "cape": "black_cat_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "black_cat_calico",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "black_cat_calico.png",
+            "cape": "black_cat_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "black_cat_fox",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "black_cat_fox.png",
+            "cape": "black_cat_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "black_cat_remake",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "black_cat_remake.png",
+            "cape": "black_cat_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "calico",
             "geometry": "geometry.hive.costume.calico",
             "texture": "calico.png",
