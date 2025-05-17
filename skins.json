@@ -786,6 +786,90 @@
             "type": "free"
         },
         {
+            "localization_name": "CactusEaster_blue",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_blue.png",
+            "cape": "easter_cape_blue.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_blue",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_blue.png",
+            "cape": "easter_cape_blue.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "CactusEaster_pink",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_pink.png",
+            "cape": "easter_cape_pink.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_pink",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_pink.png",
+            "cape": "easter_cape_pink.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "CactusEaster_pink2",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_pink2.png",
+            "cape": "easter_cape_pink2.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_pink2",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_pink2.png",
+            "cape": "easter_cape_pink2.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "CactusEaster_purple",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_purple.png",
+            "cape": "easter_cape_purple.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_purple",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_purple.png",
+            "cape": "easter_cape_purple.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "CactusEaster_white",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_white.png",
+            "cape": "easter_cape_white.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_white",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_white.png",
+            "cape": "easter_cape_white.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "CactusEaster_yellow",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "easter_fox_yellow.png",
+            "cape": "easter_cape_yellow.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEaster_yellow",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "easter_cat_yellow.png",
+            "cape": "easter_cape_yellow.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_afk",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_afk.png",
