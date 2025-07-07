@@ -608,6 +608,20 @@
             "type": "free"
         },
         {
+            "localization_name": "chat_abeille",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "chat_abeille.png",
+            "cape": "abeille_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "renard_abeille",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "renard_abeille.png",
+            "cape": "abeille_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "Renard_Raichu",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renardraichu.png",
