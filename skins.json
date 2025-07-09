@@ -884,6 +884,20 @@
             "type": "free"
         },
         {
+            "localization_name": "cactusEte",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "RenardEte.png",
+            "cape": "CapeEte.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEte",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "ChatEte.png",
+            "cape": "CapeEte.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_afk",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_afk.png",
