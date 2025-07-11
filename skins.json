@@ -1010,6 +1010,13 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wc_backrooms",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "backrooms_cat.png",
+            "cape": "backrooms_cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_sorcier",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_sorcier.png",
