@@ -919,6 +919,13 @@
             "type": "free"
         },
         {
+            "localization_name": "Mcdo m5wc",
+            "geometry": "geometry.MarioBrothers.Luigi",
+            "texture": "chatmcdo.png",
+            "cape": "mcdocapegreen.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renardctf",
             "geometry": "geometry.PawsAndClaws.tuxedocat",
             "texture": "renardctf.png",
