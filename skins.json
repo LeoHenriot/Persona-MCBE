@@ -954,6 +954,13 @@
             "type": "free"
         },
         {
+            "localization_name": "CatViking",
+            "geometry": "geometry.ChineseMythology.BullDemonKing",
+            "texture": "miaou_viking.png",
+            "cape": "miaou_viking_cape.png", 
+            "type": "free"
+        },
+        {
             "localization_name": "renardparkour",
             "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
             "texture": "renardparkour.png",
