@@ -1080,6 +1080,34 @@
             "type": "free"
         },
         {
+            "localization_name": "ChatOracleNoir",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Miaou_Oracle_Demon.png",
+            "cape": "Oracle_cape_Demon.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "ChatOracleBlanc",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Miaou_Oracle_Ange.png",
+            "cape": "Oracle_cape_Ange.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardOracleNoir",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Renard_Oracle_Demon.png",
+            "cape": "Oracle_cape_Demon.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardOracleBlanc",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Renard_Oracle_Ange.png",
+            "cape": "Oracle_cape_Ange.png",
+            "type": "free"
+        },
+        {
             "localization_name": "Roi_m5",
             "geometry": "geometry.humanoid.custom",
             "texture": "king_m5.png",
