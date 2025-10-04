@@ -744,6 +744,20 @@
             "type": "free"
         },
         {
+            "localization_name": "CactusFall25",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "fallfox2025.png",
+            "cape": "fallcape2025.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcFall25",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "fallcat2025.png",
+            "cape": "fallcape2025.png",
+            "type": "free"
+        },
+        {
             "localization_name": "CactusWinter",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "winterfox.png",
