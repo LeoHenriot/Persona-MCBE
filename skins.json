@@ -1163,6 +1163,22 @@
             "cape": "JetpackCapeCrimson.png",
             "type": "free"
         },
+
+        {
+            "localization_name": "ChatSpirit",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "Minou_Spirit_Sweeper.png",
+            "cape": "spirit_sweeper_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "RenardSpirit",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "Renard_Spirit_Sweeper.png",
+            "cape": "spirit_sweeper_cape.png",
+            "type": "free"
+        },
+
         {
             "localization_name": "renard_gold_treasure_hunter",
             "geometry": "geometry.humanoid.customSlim",
