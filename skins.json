@@ -580,6 +580,12 @@
             "type": "free"
         },
         {
+            "localization_name": "renard_4D",
+            "geometry": "geometry.renard4D",
+            "texture": "Renard_4D.png",
+            "type": "free"
+        },
+        {
             "localization_name": "renardgore",
             "geometry": "geometry.humanoid.customSlim",
             "texture": "renardgore.png",
@@ -772,6 +778,12 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wcWinter26",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "ChatHiver25-26.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_lunar",
             "geometry": "geometry.ChineseMythology.DragonDancerSuitChineseDragonHead",
             "texture": "LunarCat.png",
@@ -811,6 +823,18 @@
             "geometry": "geometry.humanoid.custom",
             "texture": "spring_cat.png",
             "cape": "spring_cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcSpring26",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "M5Spring2026.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "cactusSpring26",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "CactusSpring2026.png",
             "type": "free"
         },
         {
@@ -937,6 +961,18 @@
             "geometry": "geometry.MarioBrothers.Luigi",
             "texture": "chatmcdo.png",
             "cape": "mcdocapegreen.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "costar_m5wc",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "costar_m5wc.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "camo_m5wc",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "camo_m5wc.png",
             "type": "free"
         },
         {
