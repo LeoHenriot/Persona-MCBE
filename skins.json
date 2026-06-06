@@ -1413,6 +1413,12 @@
             "type": "free"
         },
         {
+            "localization_name": "FoxBuddy",
+            "geometry": "geometry.fox_buddy",
+            "texture": "Renard_Buddy.png",
+            "type": "free"
+        },
+        {
             "localization_name": "skin_emo",
             "geometry": "geometry.MarioBrothers.Lemmy",
             "texture": "skin_emo.png",
