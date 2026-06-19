@@ -936,6 +936,20 @@
             "type": "free"
         },
         {
+            "localization_name": "m5wcCowboy",
+            "geometry": "geometry.cat.cowboy",
+            "texture": "Cowboy_Cat.png",
+            "cape": "Cowboy_Cat_Cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "cactusCowboy",
+            "geometry": "geometry.fox.cowboy",
+            "texture": "Cowboy_Fox.png",
+            "cape": "Cowboy_Cat_Cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wc_afk",
             "geometry": "geometry.humanoid.custom",
             "texture": "m5wc_afk.png",
