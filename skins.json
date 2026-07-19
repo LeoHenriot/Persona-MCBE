@@ -936,6 +936,20 @@
             "type": "free"
         },
         {
+            "localization_name": "cactusEte2026",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "RenardEte2026.png",
+            "cape": "Ete2026Cape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "m5wcEte2026",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "MiaouEte2026.png",
+            "cape": "Ete2026Cape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "m5wcCowboy",
             "geometry": "geometry.cat.cowboy",
             "texture": "Cowboy_Cat.png",
