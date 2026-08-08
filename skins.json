@@ -1039,6 +1039,20 @@
             "type": "free"
         },
         {
+            "localization_name": "CatHAZMAT",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "MinouHazmat.png",
+            "cape": "HazmatCape.png", 
+            "type": "free"
+        },
+        {
+            "localization_name": "FoxHAZMAT",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "RenardHazmat.png",
+            "cape": "HazmatCape.png", 
+            "type": "free"
+        },
+        {
             "localization_name": "renardparkour",
             "geometry": "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler",
             "texture": "renardparkour.png",
