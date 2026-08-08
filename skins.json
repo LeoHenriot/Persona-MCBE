@@ -1047,7 +1047,7 @@
         },
         {
             "localization_name": "FoxHAZMAT",
-            "geometry": "geometry.humanoid.custom",
+            "geometry": "geometry.humanoid.customSlim",
             "texture": "RenardHazmat.png",
             "cape": "HazmatCape.png", 
             "type": "free"
