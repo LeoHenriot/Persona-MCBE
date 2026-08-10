@@ -1041,14 +1041,14 @@
         {
             "localization_name": "CatHide4D",
             "geometry": "geometry.MiniGameHeroes.MiniGameHeroesCatGlider",
-            "texture": "MiaouHideFix.png",
+            "texture": "MiaouHide.png",
             "cape": "MiaouHideCape.png", 
             "type": "free"
         },
         {
             "localization_name": "CatHide",
             "geometry": "geometry.humanoid.custom",
-            "texture": "MiaouHide.png",
+            "texture": "MiaouHideFix.png",
             "cape": "MiaouHideCape.png", 
             "type": "free"
         },
