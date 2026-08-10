@@ -651,7 +651,7 @@
         {
             "localization_name": "Lux1904",
             "geometry": "geometry.humanoid.customSlim",
-            "texture": "Lux1904.png",
+            "texture": "Lux.png",
             "cape": "Lux1904_cape.png",
             "type": "free"
         },
@@ -1036,6 +1036,20 @@
             "geometry": "geometry.ChineseMythology.BullDemonKing",
             "texture": "miaou_viking.png",
             "cape": "miaou_viking_cape.png", 
+            "type": "free"
+        },
+        {
+            "localization_name": "CatHide4D",
+            "geometry": "geometry.MiniGameHeroes.MiniGameHeroesCatGlider",
+            "texture": "MiaouHideFix.png",
+            "cape": "MiaouHideCape.png", 
+            "type": "free"
+        },
+        {
+            "localization_name": "CatHide",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "MiaouHide.png",
+            "cape": "MiaouHideCape.png", 
             "type": "free"
         },
         {
