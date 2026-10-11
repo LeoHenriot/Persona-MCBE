@@ -1314,6 +1314,34 @@
             "type": "free"
         },
         {
+            "localization_name": "renard_captain_ghosty_hat",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "RenardCaptainGhostyHat.png",
+            "cape": "CaptainGhostyCape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "minou_captain_ghosty_hat",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "MinouCaptainGhostyHat.png",
+            "cape": "CaptainGhostyCape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "renard_captain_ghosty",
+            "geometry": "geometry.humanoid.customSlim",
+            "texture": "RenardCaptainGhosty.png",
+            "cape": "CaptainGhostyCape.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "minou_captain_ghosty",
+            "geometry": "geometry.humanoid.custom",
+            "texture": "MinouCaptainGhosty.png",
+            "cape": "CaptainGhostyCape.png",
+            "type": "free"
+        },
+        {
             "localization_name": "TWchat",
             "geometry": "geometry.humanoid.custom",
             "texture": "TWchat.png",
